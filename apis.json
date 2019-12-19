@@ -1,0 +1,92 @@
+{
+    "name": "Markify",
+    "description": "Markify is the world's most accurate full trademark search. We help you avoid all confusingly similar marks.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1024-markify.jpg",
+    "tags": [
+        "api provider",
+        "content",
+        "domains",
+        "have api",
+        "legal",
+        "trademarks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/markify\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Markify",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1024-markify.jpg",
+            "humanURL": "http:\/\/www.markify.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/markify-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/markify-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "http:\/\/www.markify.com\/api\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/markify.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/www.markify.com\/blog\/feed\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/markify"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/markify"
+        },
+        {
+            "type": "Developers",
+            "url": "http:\/\/www.markify.com\/dev\/api.html"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/www.markify.com\/dev\/api.html"
+        },
+        {
+            "type": "Email",
+            "url": "support@markify.com"
+        },
+        {
+            "type": "Email",
+            "url": "feedback@markify.com"
+        },
+        {
+            "type": "Email",
+            "url": "info@markify.com"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/Markify"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/3dvMarkifyia"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.markify.com"
+        }
+    ]
+}
